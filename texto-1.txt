@@ -1,0 +1,5 @@
+Utilizaremos las variables:
+price
+state 
+type
+region
